@@ -1,0 +1,2 @@
+# animetor
+Animations and slider 
