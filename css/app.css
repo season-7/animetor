@@ -41,9 +41,9 @@
 }
 .cb-slideshow li div h3 {
     font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
+    font-size: 140px;
     padding: 0;
-    line-height: 10px;
+    line-height: 100px;
 }
 .cb-slideshow li:nth-child(1) span {
     background-image: url("../images/dog.jpg");
